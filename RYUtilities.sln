@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RYUtilities", "RYUtilities\RYUtilities.csproj", "{8A2ED017-9196-4A29-8C72-A0A3061B496B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RYUtilities.Testing", "RYUtilities.Testing\RYUtilities.Testing.csproj", "{7962EFA4-8C52-4227-AF13-E4E02952B500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A2ED017-9196-4A29-8C72-A0A3061B496B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A2ED017-9196-4A29-8C72-A0A3061B496B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A2ED017-9196-4A29-8C72-A0A3061B496B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A2ED017-9196-4A29-8C72-A0A3061B496B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7962EFA4-8C52-4227-AF13-E4E02952B500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7962EFA4-8C52-4227-AF13-E4E02952B500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7962EFA4-8C52-4227-AF13-E4E02952B500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7962EFA4-8C52-4227-AF13-E4E02952B500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92A692A9-D665-4265-9005-D20FE41FA488}
+	EndGlobalSection
+EndGlobal

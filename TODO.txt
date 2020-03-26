@@ -1,0 +1,3 @@
+# Version v0.2
+~ Adding file logging
+- Adding .json and .xml configuration file loader
